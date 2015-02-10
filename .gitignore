@@ -78,6 +78,10 @@ node_modules/
 # Bower Files
 # --------------------
 .bower-*/
+node_modules
+dist
+.tmp
+.sass-cache
 bower_components
 
 # --------------------
@@ -97,3 +101,4 @@ modules/views/
 
 # Users Environment Variables
 .lock-wscript
+
